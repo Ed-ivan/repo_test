@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<manifest>
+    <remote fetch="https://github.com.Ed-ivan" name="origin" />
+    <default remote="origin" revision="main" sync-j="4" />
+    <project name="Test_nns" path="python"  />
+    <project name="DatasetConnectionPool " path="cpp" remote="origin" />
+    
+</manifest>
