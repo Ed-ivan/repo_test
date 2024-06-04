@@ -3,6 +3,6 @@
     <remote fetch="https://github.com/Ed-ivan" name="origin" />
     <default remote="origin" revision="main" sync-j="4" />
     <project name="Text_nns" path="python"  />
-    <project name="DatasetConnectionPool " path="cpp" remote="origin" />
+    <project name="DatasetConnectionPool" path="cpp" remote="origin" />
     
 </manifest>
